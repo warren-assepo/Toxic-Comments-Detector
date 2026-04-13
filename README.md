@@ -1,4 +1,4 @@
-# Toxic Comment Detection
+# Toxic Comments Detection
 
 ## 🎯 Résultats
 - **88.67% de précision** avec XGBoost sur 160 554 commentaires
